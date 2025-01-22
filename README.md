@@ -1,2 +1,2 @@
 # epx-win
-Epx shell support for window
+Epx Shell support for Windows

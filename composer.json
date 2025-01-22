@@ -1,0 +1,16 @@
+{
+    "name": "klude/epx-win",
+    "description": "Epx Shell support for Windows",
+    "license": "MIT",
+    "type":"library",
+    "authors": [
+        {
+            "name": "Brian Pinto",
+            "homepage": "https://klude.com.au/brian-pinto",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
